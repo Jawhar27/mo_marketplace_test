@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project serves as a starting point for the redesign of the MO Marketplace.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources related to this app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [App APK FILE](https://docs.flutter.dev/get-started/codelab)
+- [Project GITHUB REPOSITORY](https://docs.flutter.dev/cookbook)
+- [Sample Video](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
